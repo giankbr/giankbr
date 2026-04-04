@@ -29,8 +29,7 @@ Web developer with a passion for **backend** and a strong **PHP** background. Th
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=giankbr&show_icons=true&hide_title=true&theme=tokyonight&rank_icon=github" alt="Gian's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giankbr&layout=compact&theme=tokyonight&hide_title=true" alt="Top languages" height="165" />
+[![GitHub followers](https://img.shields.io/github/followers/giankbr?style=for-the-badge&logo=github&label=Followers)](https://github.com/giankbr?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=giankbr&label=Profile%20views&color=0D8ABC&style=for-the-badge)](https://github.com/giankbr)
 
 </div>
