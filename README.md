@@ -6,8 +6,6 @@
 
 Web developer with a passion for **backend** and a strong **PHP** background. These days I work a lot with **TypeScript**, **NestJS**, **Express**, **Next.js**, and **Laravel**. Currently exploring **Go** and sharpening **Next.js**.
 
-[![WakaTime](https://wakatime.com/badge/user/a0049133-71b7-49d5-bacc-172661fd14f7.svg)](https://wakatime.com/@a0049133-71b7-49d5-bacc-172661fd14f7)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-virgian.tech-0D8ABC?style=for-the-badge)](https://www.virgian.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giannkbr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannkbr)
 [![GitHub](https://img.shields.io/badge/GitHub-giankbr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giankbr)
