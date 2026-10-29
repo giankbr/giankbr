@@ -1,33 +1,89 @@
 <div align="center">
 
-# Hi, I'm Gian
+<img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=28&pause=1000&color=0D8ABC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gian+%F0%9F%91%8B;Full-stack+Developer;Co-founder+%40+Novagen;Backend-leaning+%E2%80%A2+PHP+%E2%86%92+TypeScript" alt="Typing SVG" />
 
-**Full-stack developer** · Jakarta, Indonesia
+### Full-stack developer · Jakarta, Indonesia 🇮🇩
 
-Web developer with a passion for **backend** and a strong **PHP** background. These days I work a lot with **TypeScript**, **NestJS**, **Express**, **Next.js**, and **Laravel**. Currently exploring **Go** and sharpening **Next.js**.
+Co-founder at **Novagen** and building for clients at **Morfotech**. 4+ years shipping
+production APIs and web apps for **e-commerce, government, and agency** teams across Indonesia.
+These days I build with **TypeScript**, **NestJS**, **Next.js**, and **PostgreSQL**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-virgian.tech-0D8ABC?style=for-the-badge)](https://www.virgian.tech)
+<br/>
+
+[![Open to work](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-16A34A?style=for-the-badge)](https://www.virgian.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-virgian.tech-0D8ABC?style=for-the-badge&logo=vercel&logoColor=white)](https://www.virgian.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giannkbr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannkbr)
-[![GitHub](https://img.shields.io/badge/GitHub-giankbr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giankbr)
+
+</div>
 
 ---
 
-### Stack I reach for often
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</div>
+
 ---
-[![GitHub followers](https://img.shields.io/github/followers/giankbr?style=for-the-badge&logo=github&label=Followers)](https://github.com/giankbr?tab=followers)
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/giankbr/beanie-notch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giankbr&repo=beanie-notch&theme=tokyonight&hide_border=true" height="130" alt="beanie-notch" />
+</a>
+<a href="https://github.com/giankbr/beanotch-dock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giankbr&repo=beanotch-dock&theme=tokyonight&hide_border=true" height="130" alt="beanotch-dock" />
+</a>
+<a href="https://github.com/giankbr/rowhouse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giankbr&repo=rowhouse&theme=tokyonight&hide_border=true" height="130" alt="rowhouse" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/giankbr?style=for-the-badge&logo=github&label=Followers&color=0D8ABC)](https://github.com/giankbr?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=giankbr&label=Profile%20views&color=0D8ABC&style=for-the-badge)](https://github.com/giankbr)
 
 </div>
