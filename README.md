@@ -61,29 +61,3 @@ These days I build with **TypeScript**, **NestJS**, **Next.js**, and **PostgreSQ
 
 </div>
 
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/giankbr/beanie-notch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giankbr&repo=beanie-notch&theme=tokyonight&hide_border=true" height="130" alt="beanie-notch" />
-</a>
-<a href="https://github.com/giankbr/beanotch-dock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giankbr&repo=beanotch-dock&theme=tokyonight&hide_border=true" height="130" alt="beanotch-dock" />
-</a>
-<a href="https://github.com/giankbr/rowhouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giankbr&repo=rowhouse&theme=tokyonight&hide_border=true" height="130" alt="rowhouse" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/giankbr?style=for-the-badge&logo=github&label=Followers&color=0D8ABC)](https://github.com/giankbr?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=giankbr&label=Profile%20views&color=0D8ABC&style=for-the-badge)](https://github.com/giankbr)
-
-</div>
