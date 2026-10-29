@@ -4,9 +4,7 @@
 
 ### Full-stack developer · Jakarta, Indonesia 🇮🇩
 
-Co-founder at **Novagen** and building for clients at **Morfotech**. 4+ years shipping
-production APIs and web apps for **e-commerce, government, and agency** teams across Indonesia.
-These days I build with **TypeScript**, **NestJS**, **Next.js**, and **PostgreSQL**.
+Building at **Novagen** and delivering solutions for clients at **Morfotech**. 4+ years of experience shipping production-ready APIs and web applications for **e-commerce, government, and agency** teams across Indonesia. Currently building with **TypeScript, NestJS, Next.js, and PostgreSQL**.
 
 <br/>
 
